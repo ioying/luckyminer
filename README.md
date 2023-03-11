@@ -26,7 +26,7 @@
 
 ## Usage
 
- .Configure config.py change to your block_Reward_Address and coinBaseMessage
+ .Configure config.py change to your blockRewardAddress and coinBaseMessage
  
  .Configure `rpcuser` and `rpcpass` in `~/.bitcoin/bitcoin.conf`
  
