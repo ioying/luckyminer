@@ -2,8 +2,9 @@
 
   Getblocktemplate Bitcoin Miner.
   
+  for fun, just try my luck.
   
-AMD Ryzen 5 5600H with Radeon Graphics 3.30 GHz 
+### AMD Ryzen 5 5600H with Radeon Graphics 3.30 GHz 
 
 6 Cores 12 Logical processors CPU Utilzation: 
 
@@ -13,7 +14,7 @@ AMD Ryzen 5 5600H with Radeon Graphics 3.30 GHz
   
   12 : 100%, 5400KH/s
 
-  3k years can solve a block ! GOOD LUCK!
+###  3k years can solve a block ! GOOD LUCK!
 
 
 # Todo
