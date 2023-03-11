@@ -1,8 +1,19 @@
 # luckyminer
 
   Getblocktemplate Bitcoin Miner.
+  
+  
+AMD Ryzen 5 5600H with Radeon Graphics 3.30 GHz 
 
-  3k years can solve a block by using CPU! GOOD LUCK!
+6 Cores 12 Logical processors CPU Utilzation: 
+
+  1  :  20%,  700KH/s 
+  
+  5  :  56%, 2600KH/s
+  
+  12 : 100%, 5400KH/s
+
+  3k years can solve a block ! GOOD LUCK!
 
 
 # Todo
