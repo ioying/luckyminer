@@ -26,9 +26,7 @@
 # Special thanks:
 forked from [vsergeev/ntgbtminer](https://github.com/vsergeev/ntgbtminer)
 
-repaired bad-txnmrklroot references   https://github.com/FACT0RN/factoring/issues/6
-
-                                      https://github.com/FACT0RN/factoring/pull/10/files
+repaired bad-txnmrklroot references   (https://github.com/FACT0RN/factoring/issues/6) (                                 https://github.com/FACT0RN/factoring/pull/10/files)
                                       
 [bitcoin developer DOC](https://developer.bitcoin.org/reference/rpc/getblocktemplate.html)
 
